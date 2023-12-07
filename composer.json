@@ -1,0 +1,28 @@
+{
+  "name": "abdulbaset/number-format",
+  "description": "PHP number format package for formating numbers or converting numbers to words",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "php",
+    "laravel",
+    "package",
+    "number",
+    "words",
+    "format",
+    "converter"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Abdulbaset\\NumberFormat\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Abdulbaset R. Sayed",
+      "email": "AbdulbasetRedaSayedHF@Gmail.com"
+    }
+  ],
+  "homepage": "https://digitalatum.com"
+}
